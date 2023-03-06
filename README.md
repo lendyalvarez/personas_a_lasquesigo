@@ -1,1 +1,8 @@
-# personas_a_lasquesigo
+# Personas a las que sigo
+
+### Este proyecto fue creado para direccionar a las personas que vean mi portafolio y quieran saber a que más personas sigo.
+
+### Esta pagina fue creada con:
+
+* HTML
+*CSS
