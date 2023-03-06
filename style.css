@@ -1,0 +1,45 @@
+body{
+    color:rgb(122, 181, 189);
+    background-color: rgb(253, 13, 133);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lilita One', cursive;
+font-family: 'Righteous', cursive;
+}
+
+.contenedor{
+    margin-top: none;
+    display: block;
+    background-color: rgb(253, 13, 139);
+    
+    
+} 
+.text{
+    
+    justify-content: center;
+
+}
+  img {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    
+  }
+
+  h1 {
+    justify-content: center;
+  }
+
+  .carrusel {
+    display: flex;
+    overflow: auto;
+  align-items: center;
+  
+  }
+
+  .elemento {
+    flex: 1 0 auto;
+    margin: 0 50px;
+    background-color: rgb(148, 110, 184);
+    width: 200px;
+    height: 200px;
+  }
