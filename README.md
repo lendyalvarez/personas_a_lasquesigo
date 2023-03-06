@@ -1,6 +1,6 @@
 # Personas a las que sigo
 
-### Este proyecto fue creado para direccionar a las personas que vean mi portafolio y quieran saber a que más personas sigo.
+Este proyecto fue creado para practicar y direccionar a las personas que vean mi portafolio y quieran saber a que más personas sigo.
 
 ### Esta pagina fue creada con:
 
