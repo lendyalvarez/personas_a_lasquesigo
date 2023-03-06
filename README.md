@@ -6,3 +6,6 @@ Este proyecto fue creado para practicar y direccionar a las personas que vean mi
 
 * HTML
 * CSS
+
+### Link a Demo
+[más](https://seguidos-en-redes-lendy.netlify.app/)
